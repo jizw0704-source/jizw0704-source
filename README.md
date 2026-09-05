@@ -1,3 +1,5 @@
+![Abstract material structures connecting with AI nodes and practical tools](assets/research-ai-banner.png)
+
 # Hi, I’m Bertil 👋
 
 Exploring how AI and vibe coding can turn ideas from research and everyday life into practical tools.
