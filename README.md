@@ -1,4 +1,4 @@
-![Abstract material structures connecting with AI nodes and practical tools](assets/research-ai-banner.png)
+![水豚与 AI 机器人在灵感工作台共同创作，桌上有电脑、笔记本和晶格模型](assets/capybara-ai-banner-v2.png)
 
 # Hi, I’m Bertil 👋
 
