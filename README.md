@@ -43,6 +43,7 @@ A mobile-first reading tool for IELTS-style articles, vocabulary, and learning r
 A local-first Chinese AI meeting-notes project, explored and adapted from an open-source repository.
 
 听见讨论，整理笔记；基于开源项目探索本地优先的中文 AI 听记。
+
 `Forked project` · `AI exploration` · `JavaScript`
 
 ## A small note
