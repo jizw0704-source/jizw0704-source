@@ -14,6 +14,16 @@ Exploring how AI and vibe coding can turn ideas from research and everyday life 
 
 ## Selected projects
 
+### [Agent Bridge](https://github.com/jizw0704-source/agent-bridge)
+
+Exploring how personal AI agents can communicate and collaborate within their owners’ permissions, across work and everyday life.
+
+探索让不同人的专属 AI Agent 在各自主人的授权范围内交流与协作。
+
+`Personal project` · `MIT` · `Early-stage exploration`
+
+Currently sharing product requirements and design documents; no runnable service yet.
+
 ### [IELTS Knowledge Reader](https://github.com/jizw0704-source/ielts-knowledge-reader)
 
 A mobile-first reading tool for exploring IELTS-style articles, vocabulary, and personal learning records.
