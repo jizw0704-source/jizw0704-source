@@ -42,6 +42,8 @@ Adapted from [LightningFlashEvE’s project](https://github.com/LightningFlashEv
 
 ### [3D Printing Projects / 3D 打印项目集](https://github.com/jizw0704-source/3d-printing-projects)
 
+<a href="https://github.com/jizw0704-source/3d-printing-projects"><img src="assets/printing-capybara-v1.png" alt="噜噜捧着小打印模型，旁边是一台迷你 3D 打印机" width="112" height="112"></a>
+
 From everyday needs to CAD models and physical objects: a MacBook stand, a fishbone cable organizer, a shuttlecock pen holder, and a compact shoehorn.
 
 从日常需求出发，做竖放支架、鱼骨收线器、羽毛球笔筒和小巧鞋拔；保留模型、打印参数与实物反馈。
@@ -51,6 +53,8 @@ From everyday needs to CAD models and physical objects: a MacBook stand, a fishb
 The stand and cable organizer have been printed and tried; the other designs still await physical validation. 支架与收线器已打印并初步试用，其他作品仍待实物验证。
 
 ### [AI Agent Delegation Experiments / AI 跨工具委派实验](https://github.com/jizw0704-source/agent-delegation-experiments)
+
+<a href="https://github.com/jizw0704-source/agent-delegation-experiments"><img src="assets/delegation-capybara-v1.png" alt="噜噜把任务卡交给 AI 机器人小伙伴，代表任务委派与协作" width="112" height="112"></a>
 
 Field notes on Codex delegating work to WorkBuddy and other AI tools: task prompts, handoffs, delivery, and what was—and wasn’t—verified.
 
