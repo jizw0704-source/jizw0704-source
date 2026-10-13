@@ -16,6 +16,8 @@ Exploring how AI and vibe coding can turn ideas from research and everyday life 
 
 ### [灵果 · LingoMate](https://github.com/jizw0704-source/lingomate)
 
+<a href="https://github.com/jizw0704-source/lingomate"><img src="assets/lingomate-capybara-v1.png" alt="噜噜微笑着敲小键盘，旁边的中与 EN 气泡代表中英双语输入" width="112" height="112"></a>
+
 A bilingual Pinyin input method for Windows and macOS: Chinese/English candidates, multiple translations, and local vocabulary learning. The macOS version also explores on-device and optional AI sentence translation.
 
 中英双语拼音输入法：中文与英文候选、词语多译法、本地词汇学习；macOS 端还在探索本机与可选 AI 整句翻译。
